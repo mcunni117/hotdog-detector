@@ -1,0 +1,8 @@
+fastai>=2.7.12
+torch>=2.0.1
+torchvision>=0.15.2
+pillow>=10.0.0
+duckduckgo-search>=3.9.0
+fastdownload>=0.0.7
+loguru>=0.7.0
+streamlit>=1.29.0
